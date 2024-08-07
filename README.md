@@ -23,7 +23,7 @@ Tested on Python 3.8.6
 - Download project
 - Unzip
 - run PyCharm or smthng else
-- pip install =r requirements.txt
+- pip install -r requirements.txt
 - Change Api Token
 - python main.py
 - Test it!
