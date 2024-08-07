@@ -1,5 +1,5 @@
 # NSFWparser
-NSFW telegram pics pardser from thehentaiworld.com  || aiogram 3.10
+NSFW telegram pics parser from thehentaiworld.com  || aiogram 3.10
 ________________________________
 Description:
 
