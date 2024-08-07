@@ -11,6 +11,8 @@ Hentai page:
 ________________________________
 Example:
 
+![image](https://github.com/user-attachments/assets/0ea13bb8-6b76-40d2-a626-00bacf44937b)
+
 ![image](https://github.com/user-attachments/assets/6f5ece11-1c0b-4de5-a4d0-595b3dac7c6f)
 ________________________________
 The bot has a dictionary of site pages for each user, which can negatively affect speed of operation.
