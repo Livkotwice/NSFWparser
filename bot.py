@@ -1,3 +1,4 @@
+#https://t.me/xbotsmakerx make a order for the bot
 from bs4 import BeautifulSoup
 import random
 import aiogram
@@ -156,3 +157,8 @@ async def process_callback_hgen(callback_query: types.CallbackQuery):
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+
+#https://t.me/xbotsmakerx make a order for the bot
+#https://t.me/xbotsmakerx make a order for the bot
+#https://t.me/xbotsmakerx make a order for the bot
